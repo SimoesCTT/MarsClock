@@ -1,0 +1,15 @@
+A Martian timekeeper for Android.
+
+Features:
+* Live Mars Coordinated Time (MTC)
+* Darian calendar with 24 months
+* Add tasks and notes to any sol
+* Recurring tasks (every N sols)
+* Reminders at a chosen MTC time
+* Live mission sols for Curiosity and Perseverance
+* Jump to any Mars year
+* All data stored locally, no cloud, no account
+
+This app does NOT request the INTERNET permission.
+
+License: GPL-3.0-or-later

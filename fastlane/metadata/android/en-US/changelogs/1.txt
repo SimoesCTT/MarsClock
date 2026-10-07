@@ -1,0 +1,5 @@
+Initial release.
+* Live MTC clock
+* Darian calendar
+* Tasks and reminders per sol
+* Curiosity and Perseverance sols

@@ -1,6 +1,7 @@
 A Martian timekeeper for Android.
 
 Features:
+
 * Live Mars Coordinated Time (MTC)
 * Darian calendar with 24 months
 * Add tasks and notes to any sol

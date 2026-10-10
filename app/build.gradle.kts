@@ -13,6 +13,11 @@ val keystoreProps = Properties().apply {
 }
 
 android {
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+
     namespace = "com.simoesctt.marsclock"
     compileSdk = 36
 
